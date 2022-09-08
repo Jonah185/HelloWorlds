@@ -1,3 +1,5 @@
-Hello World
-Hola Mundo
-Ciao, Mondo
+Hello, World!
+Hola, Mundo!
+Hallo, Welt!
+Ciao, Mondo!
+
